@@ -1,4 +1,4 @@
-### Machine Learning Capstone Project: Fraud Detection
+### Machine Learning Capstone Project: Detection of Fraudulent Credit Card Transactions
 
 For my Machine Learning Capstone Project, I chose to work on the task of fraud detection. Specifically, I trained a model to detect fraudulent credit card transactions using transaction data. The reason I chose this particular task and dataset is because it is crucial for credit card companies to be able to identify fraudulent credit card transactions. This is important not only for the financial security of the companies but also for the protection of customers from unauthorized charges. It is particularly important in today's society, where rising inflation makes it harder for people to make ends meet, and they rely heavily on their credit cards to cover their expenses.
 
