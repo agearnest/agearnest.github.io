@@ -2,6 +2,8 @@
 
 The dataset I am working with for my Capstone Project is from Kaggle and contains transactions made by credit cards in September 2013 by European cardholders. In total, there were 284,807 transactions, out of which 492 were fraudulent. This makes the dataset highly unbalanced, with fraudulent occurrences accounting for roughly 0.2% of all transactions.
 
+![Screenshot 2023-05-03 233057](https://user-images.githubusercontent.com/132291092/236112924-fb30a071-d3df-4b51-bfdb-febfcb6b1cbb.jpg)
+
 The dataset is composed of only numerical input variables resulting from a PCA transformation. Unfortunately, due to confidentiality issues, they could not provide the original features or any more background information about the data. In the dataset, features V1, V2, … V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-sensitive learning.
 
 ![Screenshot 2023-05-03 232414](https://user-images.githubusercontent.com/132291092/236112277-56f675b1-7162-46d1-bb51-071f135194c8.jpg)
