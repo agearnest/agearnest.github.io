@@ -12,7 +12,7 @@ Following the undersampling, I split and scaled the data, using a 20% test set. 
 
 ![Screenshot 2023-05-03 233522](https://user-images.githubusercontent.com/132291092/236113426-234d17ea-b10a-4883-801f-d4e2e7cc4c8b.jpg)
 
-Furthermore, I selected four classifiers to see which one would be the best fit. Furthermore, if my results were not satisfactory, I would alter which dataset was utilized to make each classifer well-fit models for my problem and dataset. Logistic regression yeilded accurate results and it is suitable for predicting binary outcomes. As the problem at hand was to detect fraud, i.e., genuine or fraudulent, I needed to predict a binary outcome. In addition, the SVM was also an excellent classifier for the problem and dataset as seen in the table below:
+Furthermore, I selected four classifiers to see which one would be the best fit. I experimented with logisitc regression, perceptron, decision tree, and SVM classifier. Furthermore, if my results were not satisfactory, I would alter which dataset was utilized to make each classifer well-fit models for my problem and dataset. Logistic regression yeilded accurate results and it is suitable for predicting binary outcomes. As the problem at hand was to detect fraud, i.e., genuine or fraudulent, I needed to predict a binary outcome. In addition, the SVM was also an excellent classifier for the problem and dataset as seen in the table below:
 
 ![Screenshot 2023-05-03 233928](https://user-images.githubusercontent.com/132291092/236113810-d33468f6-5de7-4198-b39c-4609d01d9e7e.jpg)
 
