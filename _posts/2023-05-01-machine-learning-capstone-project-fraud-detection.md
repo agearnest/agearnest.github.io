@@ -6,4 +6,4 @@ As we all know, financial security is a top priority for people, and fraudulent 
 
 In summary, my Machine Learning Capstone Project focuses on the task of fraud detection, specifically for credit card transactions. Through the use of machine learning techniques, I was able to train a model to detect fraudulent transactions effectively. This project is of great significance to credit card companies and their customers as it improves their financial security and helps in preventing fraudulent activities.
 
-![underscored-money-lead-img-10-best-cards](https://user-images.githubusercontent.com/132291092/236111893-8b5cfbc0-ec79-4f02-8bd0-555e52cb5626.jpg)
+![iStock-495421971 (1) (1)](https://user-images.githubusercontent.com/132291092/236112658-d5a070ea-5f07-4c41-b852-12325740099e.jpg)
